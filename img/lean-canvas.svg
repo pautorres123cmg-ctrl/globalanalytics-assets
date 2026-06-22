@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040">
+<rect width="1600" height="1040" fill="#FFFFFF"/>
+<text x="40" y="50" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:27px;font-weight:800;fill:#0A1D3D;letter-spacing:0.5px;">GLOBAL</text>
+<text x="172" y="50" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:27px;font-weight:800;fill:#1E5BFF;letter-spacing:0.5px;">ANALYTICS</text>
+<text x="41" y="74" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;fill:#0B9B8E;font-style:italic;letter-spacing:0.3px;">Inteligencia, estrategia y alcance global</text>
+<text x="1560" y="52" text-anchor="end" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:30px;font-weight:800;fill:#0A1D3D;letter-spacing:1px;">Lean Canvas</text>
+<text x="1560" y="75" text-anchor="end" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:400;fill:#5A6A82;">Modelo de negocio en una página</text>
+<rect x="40" y="90" width="1520" height="3" rx="1.5" fill="#00BFAE"/>
+<rect x="40.0" y="112" width="294.4" height="726" rx="14" fill="#F2F5FB" stroke="#0A1D3D" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="40.0" y="112" width="294.4" height="6" rx="3" fill="#0A1D3D"/>
+<circle cx="69.0" cy="146" r="13" fill="#0A1D3D"/>
+<text x="69.0" y="151" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">1</text>
+<text x="90.0" y="151" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0A1D3D;letter-spacing:0.5px;">PROBLEMA</text>
+<text x="58.0" y="178" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Procesos desordenados en Excel o</text>
+<text x="58.0" y="200" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">   herramientas aisladas</text>
+<text x="58.0" y="225" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Tareas manuales que consumen</text>
+<text x="58.0" y="247" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">   tiempo</text>
+<text x="58.0" y="272" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Sin visibilidad de sus datos:</text>
+<text x="58.0" y="294" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">   ventas, stock, clientes,</text>
+<text x="58.0" y="316" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">   facturación</text>
+<rect x="346.4" y="112" width="294.4" height="357.0" rx="14" fill="#EEF3FF" stroke="#1E5BFF" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="346.4" y="112" width="294.4" height="6" rx="3" fill="#1E5BFF"/>
+<circle cx="375.4" cy="146" r="13" fill="#1E5BFF"/>
+<text x="375.4" y="151" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">2</text>
+<text x="396.4" y="151" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#1E5BFF;letter-spacing:0.5px;">SOLUCIÓN</text>
+<text x="364.4" y="178" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  SaaS de gestión personalizado</text>
+<text x="364.4" y="203" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Automatiza procesos y muestra</text>
+<text x="364.4" y="225" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">   dashboards</text>
+<text x="364.4" y="250" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Integra herramientas existentes</text>
+<text x="364.4" y="275" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Atención y soporte cercano</text>
+<rect x="346.4" y="481.0" width="294.4" height="357.0" rx="14" fill="#E9FBF8" stroke="#0B9B8E" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="346.4" y="481.0" width="294.4" height="6" rx="3" fill="#0B9B8E"/>
+<circle cx="375.4" cy="515.0" r="13" fill="#0B9B8E"/>
+<text x="375.4" y="520.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">8</text>
+<text x="396.4" y="520.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0B9B8E;letter-spacing:0.5px;">MÉTRICAS CLAVE</text>
+<text x="364.4" y="547.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Clientes activos</text>
+<text x="364.4" y="572.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  MRR (ingreso recurrente)</text>
+<text x="364.4" y="597.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Tiempo de implementación</text>
+<text x="364.4" y="622.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Renovación y referidos</text>
+<rect x="652.8" y="112" width="294.4" height="726" rx="14" fill="#E9FBF8" stroke="#0B9B8E" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="652.8" y="112" width="294.4" height="6" rx="3" fill="#0B9B8E"/>
+<circle cx="681.8" cy="146" r="13" fill="#0B9B8E"/>
+<text x="681.8" y="151" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">3</text>
+<text x="702.8" y="151" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0B9B8E;letter-spacing:0.5px;">PROPUESTA DE VALOR ÚNICA</text>
+<text x="670.8" y="178" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">Implementamos sistemas de gestión</text>
+<text x="670.8" y="200" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">personalizados y accesibles para que</text>
+<text x="670.8" y="222" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">tu empresa ordene sus procesos sin</text>
+<text x="670.8" y="244" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">pagar por software complejo que no</text>
+<text x="670.8" y="266" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">se adapta a tu realidad.</text>
+<text x="670.8" y="288" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">“Ordena tu negocio, decide con</text>
+<text x="670.8" y="310" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">datos.”</text>
+<rect x="959.1999999999999" y="112" width="294.4" height="357.0" rx="14" fill="#EEF3FF" stroke="#1E5BFF" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="959.1999999999999" y="112" width="294.4" height="6" rx="3" fill="#1E5BFF"/>
+<circle cx="988.1999999999999" cy="146" r="13" fill="#1E5BFF"/>
+<text x="988.1999999999999" y="151" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">9</text>
+<text x="1009.1999999999999" y="151" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#1E5BFF;letter-spacing:0.5px;">VENTAJA COMPETITIVA</text>
+<text x="977.1999999999999" y="178" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Cercanía con el cliente</text>
+<text x="977.1999999999999" y="203" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Personalización rápida</text>
+<text x="977.1999999999999" y="228" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Menor costo que un ERP grande</text>
+<text x="977.1999999999999" y="253" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Conocimiento del negocio</text>
+<rect x="959.1999999999999" y="481.0" width="294.4" height="357.0" rx="14" fill="#F2F5FB" stroke="#0A1D3D" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="959.1999999999999" y="481.0" width="294.4" height="6" rx="3" fill="#0A1D3D"/>
+<circle cx="988.1999999999999" cy="515.0" r="13" fill="#0A1D3D"/>
+<text x="988.1999999999999" y="520.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">5</text>
+<text x="1009.1999999999999" y="520.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0A1D3D;letter-spacing:0.5px;">CANALES</text>
+<text x="977.1999999999999" y="547.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Referidos (canal principal)</text>
+<text x="977.1999999999999" y="572.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  LinkedIn y networking</text>
+<text x="977.1999999999999" y="597.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Visitas comerciales directas</text>
+<text x="977.1999999999999" y="622.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Web + WhatsApp</text>
+<rect x="1265.6" y="112" width="294.4" height="726" rx="14" fill="#F2F5FB" stroke="#0A1D3D" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1265.6" y="112" width="294.4" height="6" rx="3" fill="#0A1D3D"/>
+<circle cx="1294.6" cy="146" r="13" fill="#0A1D3D"/>
+<text x="1294.6" y="151" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">4</text>
+<text x="1315.6" y="151" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0A1D3D;letter-spacing:0.5px;">SEGMENTO DE CLIENTES</text>
+<text x="1283.6" y="178" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Pymes y negocios en crecimiento</text>
+<text x="1283.6" y="203" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Pequeñas (10-50 empleados) al</text>
+<text x="1283.6" y="225" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">   inicio</text>
+<text x="1283.6" y="250" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Comercios, distribuidoras y</text>
+<text x="1283.6" y="272" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">   servicios</text>
+<text x="1283.6" y="297" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Chile primero, expansión a LATAM</text>
+<rect x="40" y="850" width="754.0" height="150" rx="14" fill="#F2F5FB" stroke="#0A1D3D" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="40" y="850" width="754.0" height="6" rx="3" fill="#0A1D3D"/>
+<circle cx="69" cy="884" r="13" fill="#0A1D3D"/>
+<text x="69" y="889" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">7</text>
+<text x="90" y="889" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0A1D3D;letter-spacing:0.5px;">ESTRUCTURA DE COSTES</text>
+<text x="58" y="916" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">Desarrollo · Hosting/servidores · Herramientas de software · Diseño · Soporte · Ventas y marketing ·</text>
+<text x="58" y="938" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">Administración y asesorías</text>
+<rect x="806.0" y="850" width="754.0" height="150" rx="14" fill="#E9FBF8" stroke="#0B9B8E" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="806.0" y="850" width="754.0" height="6" rx="3" fill="#0B9B8E"/>
+<circle cx="835.0" cy="884" r="13" fill="#0B9B8E"/>
+<text x="835.0" y="889" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;fill:#FFFFFF;">6</text>
+<text x="856.0" y="889" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0B9B8E;letter-spacing:0.5px;">ESTRUCTURA DE INGRESOS</text>
+<text x="824.0" y="916" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">Setup inicial de implementación (one-time) + Mensualidad recurrente (MRR) + Soporte + Capacitación</text>
+</svg>
