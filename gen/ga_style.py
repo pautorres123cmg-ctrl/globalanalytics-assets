@@ -67,13 +67,17 @@ def box(x, y, w, h, num, title, body_lines, accent, bg, *,
     out.append(f'<rect x="{x}" y="{y}" width="{w}" height="6" rx="3" '
                f'fill="{accent}"/>')
     pad = 18
-    # badge número
-    cx, cy = x + pad + 11, y + 34
-    out.append(f'<circle cx="{cx}" cy="{cy}" r="13" fill="{accent}"/>')
-    out.append(text(cx, cy + 5, str(num), size=14, color=WHITE,
-                    weight="700", anchor="middle"))
+    if num is not None:
+        # badge número
+        cx, cy = x + pad + 11, y + 34
+        out.append(f'<circle cx="{cx}" cy="{cy}" r="13" fill="{accent}"/>')
+        out.append(text(cx, cy + 5, str(num), size=14, color=WHITE,
+                        weight="700", anchor="middle"))
+        tx = x + pad + 32
+    else:
+        tx = x + pad
     # título
-    out.append(text(x + pad + 32, y + 39, title.upper(), size=title_size,
+    out.append(text(tx, y + 39, title.upper(), size=title_size,
                     color=accent, weight="700", spacing=0.5))
     # cuerpo
     ty = y + 66

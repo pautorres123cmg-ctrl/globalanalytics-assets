@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040">
+<rect width="1600" height="1040" fill="#FFFFFF"/>
+<defs><marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#0A1D3D"/></marker></defs>
+<text x="40" y="50" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:27px;font-weight:800;fill:#0A1D3D;letter-spacing:0.5px;">GLOBAL</text>
+<text x="172" y="50" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:27px;font-weight:800;fill:#1E5BFF;letter-spacing:0.5px;">ANALYTICS</text>
+<text x="41" y="74" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;fill:#0B9B8E;font-style:italic;letter-spacing:0.3px;">Inteligencia, estrategia y alcance global</text>
+<text x="1560" y="52" text-anchor="end" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:30px;font-weight:800;fill:#0A1D3D;letter-spacing:1px;">Value Proposition Canvas</text>
+<text x="1560" y="75" text-anchor="end" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:400;fill:#5A6A82;">Encaje entre oferta y necesidad</text>
+<rect x="40" y="90" width="1520" height="3" rx="1.5" fill="#00BFAE"/>
+<rect x="40" y="130" width="700" height="860" rx="20" fill="#E9FBF8" stroke="#00BFAE" stroke-opacity="0.4"/>
+<rect x="860" y="130" width="700" height="860" rx="20" fill="#F2F5FB" stroke="#0A1D3D" stroke-opacity="0.25"/>
+<rect x="68" y="156" width="26" height="26" rx="5" fill="#0B9B8E"/>
+<text x="108" y="176" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:18px;font-weight:800;fill:#0B9B8E;letter-spacing:0.5px;">MAPA DE VALOR</text>
+<text x="108" y="196" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;fill:#5A6A82;">Lo que ofrecemos</text>
+<circle cx="901" cy="169" r="14" fill="#0A1D3D"/>
+<text x="928" y="176" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:18px;font-weight:800;fill:#0A1D3D;letter-spacing:0.5px;">PERFIL DEL CLIENTE</text>
+<text x="928" y="196" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;fill:#5A6A82;">Lo que el cliente necesita</text>
+<rect x="68" y="216.0" width="644" height="240.66666666666666" rx="14" fill="#FFFFFF" stroke="#0B9B8E" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="68" y="216.0" width="644" height="6" rx="3" fill="#0B9B8E"/>
+<text x="86" y="255.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0B9B8E;letter-spacing:0.5px;">PRODUCTOS Y SERVICIOS</text>
+<text x="86" y="282.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">SaaS de gestión personalizado, dashboards, integraciones, soporte y capacitación.</text>
+<rect x="68" y="470.66666666666663" width="644" height="240.66666666666666" rx="14" fill="#FFFFFF" stroke="#0B9B8E" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="68" y="470.66666666666663" width="644" height="6" rx="3" fill="#0B9B8E"/>
+<text x="86" y="509.66666666666663" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0B9B8E;letter-spacing:0.5px;">ALIVIADORES DE DOLOR</text>
+<text x="86" y="536.6666666666666" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Automatizan tareas manuales → menos tiempo y errores</text>
+<text x="86" y="561.6666666666666" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Centralizan la información → visibilidad real</text>
+<text x="86" y="586.6666666666666" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Precio accesible y a medida → sin pagar de más</text>
+<rect x="68" y="725.3333333333333" width="644" height="240.66666666666666" rx="14" fill="#FFFFFF" stroke="#0B9B8E" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="68" y="725.3333333333333" width="644" height="6" rx="3" fill="#0B9B8E"/>
+<text x="86" y="764.3333333333333" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0B9B8E;letter-spacing:0.5px;">CREADORES DE ALEGRÍA</text>
+<text x="86" y="791.3333333333333" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Personalización rápida al rubro del cliente</text>
+<text x="86" y="816.3333333333333" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Soporte humano y cercano</text>
+<text x="86" y="841.3333333333333" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Mejora continua del sistema</text>
+<rect x="888" y="216.0" width="644" height="240.66666666666666" rx="14" fill="#FFFFFF" stroke="#0A1D3D" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="888" y="216.0" width="644" height="6" rx="3" fill="#0A1D3D"/>
+<text x="906" y="255.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0A1D3D;letter-spacing:0.5px;">TRABAJOS DEL CLIENTE</text>
+<text x="906" y="282.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Gestionar ventas, stock, clientes y facturación</text>
+<text x="906" y="307.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Decidir con información confiable</text>
+<text x="906" y="332.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Profesionalizar la operación al crecer</text>
+<rect x="888" y="470.66666666666663" width="644" height="240.66666666666666" rx="14" fill="#FFFFFF" stroke="#1E5BFF" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="888" y="470.66666666666663" width="644" height="6" rx="3" fill="#1E5BFF"/>
+<text x="906" y="509.66666666666663" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#1E5BFF;letter-spacing:0.5px;">DOLORES (PAINS)</text>
+<text x="906" y="536.6666666666666" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Procesos manuales y duplicados en Excel</text>
+<text x="906" y="561.6666666666666" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Sin visibilidad en tiempo real</text>
+<text x="906" y="586.6666666666666" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  ERPs grandes caros y complejos</text>
+<rect x="888" y="725.3333333333333" width="644" height="240.66666666666666" rx="14" fill="#FFFFFF" stroke="#0A1D3D" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="888" y="725.3333333333333" width="644" height="6" rx="3" fill="#0A1D3D"/>
+<text x="906" y="764.3333333333333" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0A1D3D;letter-spacing:0.5px;">ALEGRÍAS (GAINS)</text>
+<text x="906" y="791.3333333333333" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Ahorro de tiempo y menos errores</text>
+<text x="906" y="816.3333333333333" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Dashboards claros para decidir</text>
+<text x="906" y="841.3333333333333" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Soporte que responde rápido</text>
+<circle cx="800.0" cy="560.0" r="44" fill="#FFFFFF" stroke="#1E5BFF" stroke-width="2.5"/>
+<text x="800.0" y="556.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:800;fill:#1E5BFF;">ENCAJE</text>
+<text x="800.0" y="575.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;fill:#5A6A82;">(fit)</text>
+<path d="M 730.0 560.0 L 754.0 560.0" stroke="#0B9B8E" stroke-width="3" marker-end="url(#ar)"/>
+<path d="M 870.0 560.0 L 846.0 560.0" stroke="#0A1D3D" stroke-width="3" marker-end="url(#ar)"/>
+</svg>

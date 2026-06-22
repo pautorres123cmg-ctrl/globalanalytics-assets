@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040">
+<rect width="1600" height="1040" fill="#FFFFFF"/>
+<text x="40" y="50" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:27px;font-weight:800;fill:#0A1D3D;letter-spacing:0.5px;">GLOBAL</text>
+<text x="172" y="50" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:27px;font-weight:800;fill:#1E5BFF;letter-spacing:0.5px;">ANALYTICS</text>
+<text x="41" y="74" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;fill:#0B9B8E;font-style:italic;letter-spacing:0.3px;">Inteligencia, estrategia y alcance global</text>
+<text x="1560" y="52" text-anchor="end" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:30px;font-weight:800;fill:#0A1D3D;letter-spacing:1px;">Análisis FODA</text>
+<text x="1560" y="75" text-anchor="end" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:400;fill:#5A6A82;">Fortalezas · Oportunidades · Debilidades · Amenazas</text>
+<rect x="40" y="90" width="1520" height="3" rx="1.5" fill="#00BFAE"/>
+<text x="58" y="400.79999999999995" text-anchor="middle" transform="rotate(-90 58 400.79999999999995)" style="font-family:Montserrat,Arial,sans-serif;font-size:12px;font-weight:700;fill:#5A6A82;letter-spacing:1px">INTERNO</text>
+<text x="58" y="832.8" text-anchor="middle" transform="rotate(-90 58 832.8)" style="font-family:Montserrat,Arial,sans-serif;font-size:12px;font-weight:700;fill:#5A6A82;letter-spacing:1px">EXTERNO</text>
+<text x="442.0" y="140" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;fill:#5A6A82;letter-spacing:1px;">POSITIVO</text>
+<text x="1192.0" y="140" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;fill:#5A6A82;letter-spacing:1px;">NEGATIVO</text>
+<rect x="74.0" y="150.0" width="736.0" height="418.0" rx="14" fill="#EAFBF3" stroke="#0E9E6E" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="74.0" y="150.0" width="736.0" height="6" rx="3" fill="#0E9E6E"/>
+<text x="92.0" y="189.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#0E9E6E;letter-spacing:0.5px;">FORTALEZAS</text>
+<text x="92.0" y="216.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Cercanía y trato directo con el cliente</text>
+<text x="92.0" y="241.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Personalización rápida y flexible</text>
+<text x="92.0" y="266.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Menor costo que un ERP grande</text>
+<text x="92.0" y="291.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Conocimiento del negocio del cliente</text>
+<text x="92.0" y="316.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Producto + acompañamiento continuo</text>
+<rect x="824.0" y="150.0" width="736.0" height="418.0" rx="14" fill="#FDEEEC" stroke="#E0564B" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="824.0" y="150.0" width="736.0" height="6" rx="3" fill="#E0564B"/>
+<text x="842.0" y="189.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#E0564B;letter-spacing:0.5px;">DEBILIDADES</text>
+<text x="842.0" y="216.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Equipo pequeño / capacidad limitada</text>
+<text x="842.0" y="241.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Marca aún poco conocida</text>
+<text x="842.0" y="266.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Dependencia de pocos clientes al inicio</text>
+<text x="842.0" y="291.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Procesos internos por formalizar</text>
+<text x="842.0" y="316.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">(propuesta — ajustar con tu realidad)</text>
+<rect x="74.0" y="582.0" width="736.0" height="418.0" rx="14" fill="#EEF3FF" stroke="#1E5BFF" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="74.0" y="582.0" width="736.0" height="6" rx="3" fill="#1E5BFF"/>
+<text x="92.0" y="621.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#1E5BFF;letter-spacing:0.5px;">OPORTUNIDADES</text>
+<text x="92.0" y="648.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Muchas pymes aún operan en Excel</text>
+<text x="92.0" y="673.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Tendencia a digitalización y datos</text>
+<text x="92.0" y="698.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Demanda de software a medida accesible</text>
+<text x="92.0" y="723.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Expansión futura a LATAM</text>
+<rect x="824.0" y="582.0" width="736.0" height="418.0" rx="14" fill="#FDF4E5" stroke="#D98A14" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="824.0" y="582.0" width="736.0" height="6" rx="3" fill="#D98A14"/>
+<text x="842.0" y="621.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;fill:#D98A14;letter-spacing:0.5px;">AMENAZAS</text>
+<text x="842.0" y="648.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  ERPs y soluciones no-code bajando precios</text>
+<text x="842.0" y="673.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Nuevos competidores / freelancers</text>
+<text x="842.0" y="698.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Ciclos económicos que afectan a las pymes</text>
+<text x="842.0" y="723.0" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;fill:#2A3A53;">•  Cambios tecnológicos rápidos</text>
+</svg>
