@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#F8FBFF"/>
+<text x="40" y="50" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:27px;font-weight:800;fill:#0A1D3D;letter-spacing:0.5px;">GLOBAL</text>
+<text x="172" y="50" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:27px;font-weight:800;fill:#1E5BFF;letter-spacing:0.5px;">ANALYTICS</text>
+<text x="41" y="74" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;fill:#0B9B8E;font-style:italic;letter-spacing:0.3px;">Inteligencia, estrategia y alcance global</text>
+<text x="1560" y="52" text-anchor="end" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:30px;font-weight:800;fill:#0A1D3D;letter-spacing:1px;">Por qué Global Analytics</text>
+<text x="1560" y="75" text-anchor="end" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:400;fill:#5A6A82;">Comparativa de soluciones</text>
+<rect x="40" y="90" width="1520" height="3" rx="1.5" fill="#00BFAE"/>
+<rect x="40" y="140" width="520" height="70" rx="10" fill="#F8FBFF"/>
+<text x="300.0" y="180.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:800;fill:#1E2C45;">Criterio</text>
+<rect x="560" y="140" width="333.3333333333333" height="70" rx="10" fill="#EEF1F6"/>
+<text x="726.6666666666666" y="170.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:800;fill:#1E2C45;">Excel /</text>
+<text x="726.6666666666666" y="190.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:800;fill:#1E2C45;">planillas</text>
+<rect x="893.3333333333333" y="140" width="333.3333333333333" height="70" rx="10" fill="#EEF1F6"/>
+<text x="1060.0" y="170.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:800;fill:#1E2C45;">ERP</text>
+<text x="1060.0" y="190.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:800;fill:#1E2C45;">grande</text>
+<rect x="1226.6666666666665" y="140" width="333.3333333333333" height="70" rx="10" fill="#0A1D3D"/>
+<text x="1393.3333333333333" y="170.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:800;fill:#FFFFFF;">Global</text>
+<text x="1393.3333333333333" y="190.0" text-anchor="middle" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:800;fill:#FFFFFF;">Analytics</text>
+<rect x="40" y="210" width="1520" height="107.14285714285714" fill="#FFFFFF"/>
+<text x="64" y="269.57142857142856" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;fill:#1E2C45;">Costo accesible</text>
+<rect x="1226.6666666666665" y="210" width="333.3333333333333" height="107.14285714285714" fill="#00BFAE" fill-opacity="0.07"/>
+<circle cx="726.6666666666666" cy="263.57142857142856" r="15" fill="#D9A21A"/>
+<rect x="719.6666666666666" y="261.57142857142856" width="14" height="4" rx="2" fill="#FFFFFF"/>
+<circle cx="1060.0" cy="263.57142857142856" r="15" fill="#E0564B"/>
+<path d="M 1054.0 257.57142857142856 L 1066.0 269.57142857142856 M 1066.0 257.57142857142856 L 1054.0 269.57142857142856" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1393.3333333333333" cy="263.57142857142856" r="15" fill="#00BFAE"/>
+<path d="M 1386.3333333333333 263.57142857142856 L 1391.3333333333333 269.57142857142856 L 1401.3333333333333 257.57142857142856" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="64" y="376.71428571428567" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;fill:#1E2C45;">Personalización al rubro</text>
+<rect x="1226.6666666666665" y="317.1428571428571" width="333.3333333333333" height="107.14285714285714" fill="#00BFAE" fill-opacity="0.07"/>
+<circle cx="726.6666666666666" cy="370.71428571428567" r="15" fill="#E0564B"/>
+<path d="M 720.6666666666666 364.71428571428567 L 732.6666666666666 376.71428571428567 M 732.6666666666666 364.71428571428567 L 720.6666666666666 376.71428571428567" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1060.0" cy="370.71428571428567" r="15" fill="#D9A21A"/>
+<rect x="1053.0" y="368.71428571428567" width="14" height="4" rx="2" fill="#FFFFFF"/>
+<circle cx="1393.3333333333333" cy="370.71428571428567" r="15" fill="#00BFAE"/>
+<path d="M 1386.3333333333333 370.71428571428567 L 1391.3333333333333 376.71428571428567 L 1401.3333333333333 364.71428571428567" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="40" y="424.2857142857142" width="1520" height="107.14285714285714" fill="#FFFFFF"/>
+<text x="64" y="483.8571428571428" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;fill:#1E2C45;">Rápido de implementar</text>
+<rect x="1226.6666666666665" y="424.2857142857142" width="333.3333333333333" height="107.14285714285714" fill="#00BFAE" fill-opacity="0.07"/>
+<circle cx="726.6666666666666" cy="477.8571428571428" r="15" fill="#00BFAE"/>
+<path d="M 719.6666666666666 477.8571428571428 L 724.6666666666666 483.8571428571428 L 734.6666666666666 471.8571428571428" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1060.0" cy="477.8571428571428" r="15" fill="#E0564B"/>
+<path d="M 1054.0 471.8571428571428 L 1066.0 483.8571428571428 M 1066.0 471.8571428571428 L 1054.0 483.8571428571428" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1393.3333333333333" cy="477.8571428571428" r="15" fill="#00BFAE"/>
+<path d="M 1386.3333333333333 477.8571428571428 L 1391.3333333333333 483.8571428571428 L 1401.3333333333333 471.8571428571428" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="64" y="590.9999999999999" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;fill:#1E2C45;">Soporte cercano</text>
+<rect x="1226.6666666666665" y="531.4285714285713" width="333.3333333333333" height="107.14285714285714" fill="#00BFAE" fill-opacity="0.07"/>
+<circle cx="726.6666666666666" cy="584.9999999999999" r="15" fill="#E0564B"/>
+<path d="M 720.6666666666666 578.9999999999999 L 732.6666666666666 590.9999999999999 M 732.6666666666666 578.9999999999999 L 720.6666666666666 590.9999999999999" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1060.0" cy="584.9999999999999" r="15" fill="#D9A21A"/>
+<rect x="1053.0" y="582.9999999999999" width="14" height="4" rx="2" fill="#FFFFFF"/>
+<circle cx="1393.3333333333333" cy="584.9999999999999" r="15" fill="#00BFAE"/>
+<path d="M 1386.3333333333333 584.9999999999999 L 1391.3333333333333 590.9999999999999 L 1401.3333333333333 578.9999999999999" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="40" y="638.5714285714284" width="1520" height="107.14285714285714" fill="#FFFFFF"/>
+<text x="64" y="698.142857142857" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;fill:#1E2C45;">Dashboards y visibilidad</text>
+<rect x="1226.6666666666665" y="638.5714285714284" width="333.3333333333333" height="107.14285714285714" fill="#00BFAE" fill-opacity="0.07"/>
+<circle cx="726.6666666666666" cy="692.142857142857" r="15" fill="#E0564B"/>
+<path d="M 720.6666666666666 686.142857142857 L 732.6666666666666 698.142857142857 M 732.6666666666666 686.142857142857 L 720.6666666666666 698.142857142857" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1060.0" cy="692.142857142857" r="15" fill="#00BFAE"/>
+<path d="M 1053.0 692.142857142857 L 1058.0 698.142857142857 L 1068.0 686.142857142857" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1393.3333333333333" cy="692.142857142857" r="15" fill="#00BFAE"/>
+<path d="M 1386.3333333333333 692.142857142857 L 1391.3333333333333 698.142857142857 L 1401.3333333333333 686.142857142857" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="64" y="805.2857142857141" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;fill:#1E2C45;">Automatización</text>
+<rect x="1226.6666666666665" y="745.7142857142856" width="333.3333333333333" height="107.14285714285714" fill="#00BFAE" fill-opacity="0.07"/>
+<circle cx="726.6666666666666" cy="799.2857142857141" r="15" fill="#E0564B"/>
+<path d="M 720.6666666666666 793.2857142857141 L 732.6666666666666 805.2857142857141 M 732.6666666666666 793.2857142857141 L 720.6666666666666 805.2857142857141" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1060.0" cy="799.2857142857141" r="15" fill="#00BFAE"/>
+<path d="M 1053.0 799.2857142857141 L 1058.0 805.2857142857141 L 1068.0 793.2857142857141" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1393.3333333333333" cy="799.2857142857141" r="15" fill="#00BFAE"/>
+<path d="M 1386.3333333333333 799.2857142857141 L 1391.3333333333333 805.2857142857141 L 1401.3333333333333 793.2857142857141" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="40" y="852.8571428571427" width="1520" height="107.14285714285714" fill="#FFFFFF"/>
+<text x="64" y="912.4285714285712" text-anchor="start" style="font-family:Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;fill:#1E2C45;">Escala con tu negocio</text>
+<rect x="1226.6666666666665" y="852.8571428571427" width="333.3333333333333" height="107.14285714285714" fill="#00BFAE" fill-opacity="0.07"/>
+<circle cx="726.6666666666666" cy="906.4285714285712" r="15" fill="#E0564B"/>
+<path d="M 720.6666666666666 900.4285714285712 L 732.6666666666666 912.4285714285712 M 732.6666666666666 900.4285714285712 L 720.6666666666666 912.4285714285712" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1060.0" cy="906.4285714285712" r="15" fill="#00BFAE"/>
+<path d="M 1053.0 906.4285714285712 L 1058.0 912.4285714285712 L 1068.0 900.4285714285712" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1393.3333333333333" cy="906.4285714285712" r="15" fill="#00BFAE"/>
+<path d="M 1386.3333333333333 906.4285714285712 L 1391.3333333333333 912.4285714285712 L 1401.3333333333333 900.4285714285712" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1226.6666666666665" y="140" width="333.3333333333333" height="820" rx="10" fill="none" stroke="#00BFAE" stroke-width="2.5"/>
+</svg>
